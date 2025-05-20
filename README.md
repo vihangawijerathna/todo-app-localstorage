@@ -18,7 +18,7 @@ A simple, elegant Todo List application built with HTML, CSS, and JavaScript. Th
 
 ## Screenshots
 
-<img alt="Todo List App Screenshot" src="https://placeholder-for-your-screenshot.png">
+<img alt="Todo List App Screenshot" src="screenshot.png">
 
 ## Live Demo
 You can try the live demo here: [Demo Link](https://vihangawijerathna.github.io/todo-app-localstorage)
